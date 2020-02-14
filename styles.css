@@ -5,6 +5,9 @@
     width: 100%;
     height: 660px;
 }
+.navbar {
+  background: linear-gradient(to top right, #222420, #9e9ca1);
+}
 
 .hearderset{
     
